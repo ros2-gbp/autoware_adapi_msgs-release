@@ -1,3 +1,28 @@
+## autoware_adapi_msgs (jazzy) - 1.9.1-1
+
+The packages in the `autoware_adapi_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy autoware_adapi_msgs` on `Fri, 08 May 2026 09:43:07 -0000`
+
+These packages were released:
+- `autoware_adapi_v1_msgs`
+- `autoware_adapi_version_msgs`
+
+Version of package(s) in repository `autoware_adapi_msgs`:
+
+- upstream repository: https://github.com/autowarefoundation/autoware_adapi_msgs.git
+- release repository: https://github.com/ros2-gbp/autoware_adapi_msgs-release.git
+- rosdistro version: `1.9.0-1`
+- old version: `1.9.0-1`
+- new version: `1.9.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## autoware_adapi_msgs (rolling) - 1.9.1-1
 
 The packages in the `autoware_adapi_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling autoware_adapi_msgs` on `Fri, 08 May 2026 09:37:26 -0000`
